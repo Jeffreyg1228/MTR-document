@@ -53,6 +53,7 @@ export default defineConfig({
               collapsed: false,
               items: [
                 { text: '基本功能', link: '/lcd/player-guide/basic-features' },
+                { text: '配置文件', link: '/lcd/player-guide/config-file'},
                 { text: '性能调优', link: '/lcd/player-guide/performance-tuning' },
                 { text: '疑难解答', link: '/lcd/player-guide/troubleshooting' }
               ]

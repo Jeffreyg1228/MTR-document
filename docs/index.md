@@ -7,6 +7,9 @@ hero:
   text: ""
   tagline: 一些 MTR 模组相关的文档，旨在帮助 MTR 圈更好发展。
   actions:
+    - theme: alt
+      text: 下载 LCD
+      link: https://www.mtrbbs.top/thread-5656-1-1.html
     - theme: brand
       text: LCD 使用文档
       link: /lcd/
