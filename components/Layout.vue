@@ -7,7 +7,7 @@
           repo="Jeffreyg1228/MTR-Document"
           repo-id="R_kgDOMUlRQA"
           category="Announcements"
-          category-id="DIC_kwDOMUlRQM4Cgsv3"
+          category-id="DIC_kwDOMY6O_c4ChCVr"
           mapping="url"
           strict="0"
           reactions-enabled="1"
