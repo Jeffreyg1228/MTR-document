@@ -5,7 +5,7 @@
         <Giscus
           :key="page.filePath"
           repo="Jeffreyg1228/MTR-Document"
-          repo-id="R_kgDOMUlRQA"
+          repo-id="R_kgDOMY6O_Q"
           category="Announcements"
           category-id="DIC_kwDOMY6O_c4ChCVr"
           mapping="url"
